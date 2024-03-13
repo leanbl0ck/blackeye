@@ -124,7 +124,8 @@ start
 
 elif [[ $option == 21 ]]; then
 server="verizon"
-start
+start-start
+
 
 elif [[ $option == 22 ]]; then
 server="dropbox"
